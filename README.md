@@ -1,49 +1,86 @@
 # Starbucks Customer Behaviour Analysis – Malaysia
 
-## 📌 Overview
-An interactive Power BI dashboard that analyses the purchasing 
-behaviour and satisfaction levels of over 4,000 Starbucks 
-customers across Malaysia. The project translates raw survey 
-data into actionable business insights for marketing and 
-customer experience teams.
+A Power BI business-intelligence project analysing **4,000+ customer survey responses** to understand purchasing behaviour, satisfaction, promotional effectiveness and membership conversion.
 
-## 🎯 Problem Statement
-Starbucks Malaysia needed to understand what drives customer 
-loyalty, satisfaction, and membership conversion across 
-different demographics and behavioural groups. Raw survey 
-data alone cannot reveal these patterns without proper 
-visualisation and analysis.
+## At a Glance
 
-## 🔄 Methodology
-1. **Data Cleaning** — Removed redundant rows, handled 
-   missing values, created binary columns for product 
-   purchases and promotional channels
-2. **Feature Engineering** — Derived new variables for 
-   segment-based analysis across gender, age, and income
-3. **Visualisation** — Built interactive dashboard using:
-   - Decomposition Trees
-   - Heatmap Matrices
-   - Lollipop Charts
-   - Tornado Charts
-4. **Analysis Framework** — Applied Edward Tufte's 
-   Principles of Data Visualisation and GQM+ 
-   Strategies Measurement Model
+| Area | Details |
+|---|---|
+| Project Type | Data Analytics / Business Intelligence |
+| Main Tool | Power BI |
+| Supporting Tool | Microsoft Excel |
+| Dataset Size | 4,000+ customer responses |
+| Key Finding | Promotional Email achieved the highest membership conversion rate at **77.8%** |
 
-## 📊 Key Results
-- ✅ Analysed **4,000+** customer responses
-- ✅ Promotional Emails achieved the highest membership 
-  conversion rate at **77.8%**
-- ✅ Social Media had the widest awareness reach but 
-  lowest conversion
-- ✅ Identified satisfaction disparities across gender, 
-  age, and income segments
+## Business Objective
 
-## 🛠️ Tools & Technologies
-- Power BI (DAX, interactive dashboard)
-- Microsoft Excel (data cleaning & preparation)
-- Techniques: EDA, Feature Engineering, 
-  Visual Storytelling, Segment Analysis
+The project explores how customer survey data can be transformed into actionable insights for marketing and customer-experience decision making.
 
-## 👤 Author
-Muhammad Nurhilman Bin Mohd Rozalee
-hilmanrozalee7@gmail.com
+The analysis focuses on:
+
+- purchasing behaviour;
+- customer satisfaction;
+- demographic differences;
+- promotional-channel performance; and
+- membership conversion.
+
+## Data Preparation
+
+The dataset was prepared before visualisation by:
+
+- handling missing values;
+- removing redundant rows;
+- creating binary variables for product-purchase behaviour;
+- creating promotional-channel indicators; and
+- preparing demographic fields for segment analysis.
+
+## Dashboard & Analysis
+
+The Power BI dashboard includes interactive views for:
+
+- customer purchasing patterns;
+- satisfaction by gender, age and income;
+- promotional-channel performance;
+- membership conversion; and
+- segment-level comparison.
+
+Visualisation approaches used in the project include decomposition trees, heatmap-style analysis, lollipop charts and tornado charts.
+
+The dashboard design also applied **Edward Tufte's principles of data visualisation** and the **GQM+ Strategies measurement framework**.
+
+## Key Results
+
+- Analysed **4,000+** customer responses.
+- **Promotional Email** recorded the highest membership conversion rate at **77.8%**.
+- Social Media reached the largest audience but showed weaker conversion performance.
+- Customer satisfaction varied across gender, age and income groups.
+
+## Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+- data cleaning;
+- feature engineering;
+- exploratory data analysis;
+- Power BI dashboard development;
+- customer segmentation;
+- business insight generation; and
+- data storytelling.
+
+## Tools
+
+- Power BI
+- Microsoft Excel
+- DAX / dashboard measures
+- Exploratory Data Analysis
+- Feature Engineering
+- Segment Analysis
+
+## Project Value
+
+The project shows how raw survey data can be converted into a business-facing dashboard that supports marketing and customer-experience analysis instead of presenting data as isolated charts.
+
+## Author
+
+**Muhammad Nurhilman bin Mohd Rozalee**  
+GitHub: https://github.com/Hilman03
